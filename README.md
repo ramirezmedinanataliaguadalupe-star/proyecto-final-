@@ -97,7 +97,7 @@ h1{
 <header>
 
 
-<img class="logo" src="logo.png">
+<img class="logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130198-4b95b5ec-824f-4450-b151-7a904a6396b2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260611T003458Z&X-Amz-Expires=300&X-Amz-Signature=bf3093f971f93f729bece7772bf7f97814e8659ab27bd778b39496564e505878&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg">
 
 
 <h1>Zote Royale</h1>
